@@ -14,7 +14,7 @@ A simple custom web browser for Windows, built with [Electron](https://www.elect
 - Windows 10 or 11 (64-bit)
 - [Node.js](https://nodejs.org/) (LTS version)
 
-## How To Install
+## How To Run It
 Download The **Latest** Release And Double Click The GorillaNet.exe,
 
 Windows may show a blue **"Windows protected your PC"** warning because the app isn't digitally signed. Click **More info > Run anyway**.
